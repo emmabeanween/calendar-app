@@ -17,11 +17,6 @@ class Calendar extends React.Component {
 
 
 
-      // this.state.currentMonth == '2'? <div></div>: else: this.state.currentMonth in('4', '6', '11'): two more claendar squares: else - 3 more
-      // or pretened every month has same amount of days
-
-
-
 
      handleNextMonth = () => {
 
@@ -62,9 +57,6 @@ class Calendar extends React.Component {
 
 
      }
-
-
-
 
 
 
@@ -234,32 +226,11 @@ class Calendar extends React.Component {
 
 
 
-
-
-
-
-
-
-
         </div>
 
 
 
-         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     
 
        </div>
 
