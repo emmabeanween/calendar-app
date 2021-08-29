@@ -1,0 +1,31 @@
+.card {
+     background-color: white;
+     white-space: pre-wrap;
+     position: relative;
+     border: 0.5px solid gray;
+ 
+}
+
+.form {
+	position: absolute;
+	background-color: white;
+	opacity: 0.7;
+	color: black;
+}
+
+
+.text {
+
+background-color: lightpink;
+
+}
+.button {
+	margin-top: 10px;
+	margin-left: 85px;
+	width: 50px;
+	height: 40px;
+	background-color: white;
+	border: 1px solid white;
+}
+
+
